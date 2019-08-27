@@ -28,6 +28,8 @@ class Spider(object):
             f.write(url + '\n')
 
     def response(self, flow: http.HTTPFlow):
+        print('----------------------------------------------------')
+        print('running..........response function')
         url = unquote(flow.request.url)
         ctx.log.info(url)
         host = 'https://aweme-hl.snssdk.com/aweme/v1/general/search/single/'
@@ -38,6 +40,7 @@ class Spider(object):
             return
 
     def parse_response(self, response):
+        print(' running...........parse_response function')
         response = json.loads(response)
         items = response.get('data')
         if items:
@@ -57,3 +60,4 @@ class Spider(object):
                 ctx.log.info(result)
                 with open(body_file, 'a+') as f:
                     f.write(str(result) + '\n')
+                print('-----写入数据-----')

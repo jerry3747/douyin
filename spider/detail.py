@@ -88,7 +88,6 @@ class DouYin(object):
         with open(app_path() + '/data/author.txt', 'a+', encoding = 'utf-8') as f:
             f.write(line + '\n')
 
-
     def read_author_id(self):
         with open(app_path() + '/data/body.txt', 'r') as f:
             lines = f.readlines()
