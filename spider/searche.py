@@ -33,7 +33,9 @@ class Spider(object):
         url = unquote(flow.request.url)
         ctx.log.info(url)
         host = 'https://aweme-hl.snssdk.com/aweme/v1/general/search/single/'
-        if url.startswith(host):
+        host2 = 'https://aweme.snssdk.com/aweme/v1/general/search/single/'
+        if url.startswith(host) or url.startswith(host2):
+            print('抓取到有效数据')
             response = flow.response.get_text()
             self.parse_response(response)
         else:

@@ -12,3 +12,6 @@ def app_path():
         return os.path.dirname(sys.executable)
     return os.path.dirname(__file__)
 
+
+a = app_path()
+print(a)
