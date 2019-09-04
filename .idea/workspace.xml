@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="113d4264-bda9-46b4-9519-914c777ffb53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/cfg_prod.py" beforeDir="false" afterPath="$PROJECT_DIR$/configs/cfg_prod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/author.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/author.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/body.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/body.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/header.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frozen_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/frozen_path.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/searche.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/searche.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/detail.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/detail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,41 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/body.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="26" column="48" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configs/cfg_prod.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/header.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="1209" column="55" selection-start-line="1209" selection-start-column="49" selection-end-line="1209" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/searche.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-              <folding>
-                <element signature="e#67#78#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="11" selection-start-column="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -59,38 +28,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="616">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connection.py">
+        <entry file="file://$PROJECT_DIR$/spider/detail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3278">
-              <caret line="158" selection-start-line="158" selection-end-line="158" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="511">
+              <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
               <folding>
-                <element signature="e#67#78#0" expanded="true" />
+                <element signature="e#67#76#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/addons.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frozen_path.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spider/searche.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="37" />
+              <folding>
+                <element signature="e#67#78#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,19 +97,20 @@
         <option value="$PROJECT_DIR$/gzip" />
         <option value="$PROJECT_DIR$/gzip.gz" />
         <option value="$PROJECT_DIR$/demo.py" />
-        <option value="$PROJECT_DIR$/spider/detail.py" />
-        <option value="$PROJECT_DIR$/data/body.txt" />
-        <option value="$PROJECT_DIR$/data/header.txt" />
         <option value="$PROJECT_DIR$/spider/searche.py" />
         <option value="$PROJECT_DIR$/frozen_path.py" />
-        <option value="$PROJECT_DIR$/control/douyin_control.py" />
         <option value="$PROJECT_DIR$/configs/cfg_prod.py" />
+        <option value="$PROJECT_DIR$/data/author.txt" />
+        <option value="$PROJECT_DIR$/control/douyin_control.py" />
+        <option value="$PROJECT_DIR$/data/header.txt" />
+        <option value="$PROJECT_DIR$/data/body.txt" />
+        <option value="$PROJECT_DIR$/spider/detail.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="253" />
-    <option name="y" value="87" />
+    <option name="x" value="383" />
+    <option name="y" value="127" />
     <option name="width" value="1393" />
     <option name="height" value="840" />
   </component>
@@ -147,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,13 +131,22 @@
             <path>
               <item name="douyin" type="b2602c69:ProjectViewProjectNode" />
               <item name="douyin" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="douyin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="douyin" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.douyin_control">
+  <component name="RunManager" selected="Python.detail">
     <configuration name="addons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="douyin" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.detail" />
         <item itemvalue="Python.douyin_control" />
         <item itemvalue="Python.searche" />
         <item itemvalue="Python.frozen_path" />
         <item itemvalue="Python.addons" />
-        <item itemvalue="Python.detail" />
       </list>
     </recent_temporary>
   </component>
@@ -341,11 +324,13 @@
       <workItem from="1567143807404" duration="1318000" />
       <workItem from="1567151685230" duration="672000" />
       <workItem from="1567152899329" duration="2333000" />
+      <workItem from="1567410606036" duration="2045000" />
+      <workItem from="1567497612039" duration="675000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42364000" />
+    <option name="totallyTimeSpent" value="45084000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,15 +342,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="253" y="87" width="1393" height="840" extended-state="0" />
+    <frame x="383" y="127" width="1393" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19393042" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19985196" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1764706" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33556148" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,10 +373,10 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/douyin$detail.coverage" NAME="detail Coverage Results" MODIFIED="1566875225804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/douyin$detail.coverage" NAME="detail Coverage Results" MODIFIED="1567414865697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/douyin$addons.coverage" NAME="addons Coverage Results" MODIFIED="1566891627097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/douyin$searche.coverage" NAME="searche Coverage Results" MODIFIED="1567153006120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
-    <SUITE FILE_PATH="coverage/douyin$douyin_control.coverage" NAME="douyin_control Coverage Results" MODIFIED="1567154861890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control" />
+    <SUITE FILE_PATH="coverage/douyin$douyin_control.coverage" NAME="douyin_control Coverage Results" MODIFIED="1567412135298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/control" />
     <SUITE FILE_PATH="coverage/douyin$frozen_path.coverage" NAME="frozen_path Coverage Results" MODIFIED="1567130663577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/douyin$demo.coverage" NAME="demo Coverage Results" MODIFIED="1565612587490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -458,23 +443,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/detail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="907">
-          <caret line="97" column="26" lean-forward="true" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
-          <folding>
-            <element signature="e#67#76#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/author.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="42" lean-forward="true" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/util/connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
@@ -482,34 +450,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frozen_path.py">
+    <entry file="file://$PROJECT_DIR$/configs/cfg_prod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="440">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/urllib3/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3278">
+        <state relative-caret-position="643">
           <caret line="158" selection-start-line="158" selection-end-line="158" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="352">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#67#78#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -520,34 +481,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/author.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/header.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/body.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spider/searche.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="1078">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="37" />
           <folding>
             <element signature="e#67#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/header.txt">
+    <entry file="file://$PROJECT_DIR$/spider/detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="1209" column="55" selection-start-line="1209" selection-start-column="49" selection-end-line="1209" selection-end-column="55" />
+        <state relative-caret-position="511">
+          <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+          <folding>
+            <element signature="e#67#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configs/cfg_prod.py">
+    <entry file="file://$PROJECT_DIR$/frozen_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/body.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="48" />
+        <state relative-caret-position="330">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>

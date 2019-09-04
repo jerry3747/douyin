@@ -98,7 +98,7 @@ class DouYin(object):
         for line in lines:
             line = re.sub('\'', '"', line)
             data = json.loads(line)
-            author_id = data['id']
+            author_id = data['author_id']
             url = 'https://www.iesdouyin.com/share/user/' + str(author_id)
             response = self.get_html(url)
             new_cmap = self.map_cmap_num(self.get_cmap_dict, self.get_num_cmap)
