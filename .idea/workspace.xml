@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113d4264-bda9-46b4-9519-914c777ffb53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/author.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/author.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/body.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/body.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/header.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/header.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/detail.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/detail.py" afterDir="false" />
-    </list>
+    <list default="true" id="113d4264-bda9-46b4-9519-914c777ffb53" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,25 +22,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/detail.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
+            <state relative-caret-position="314">
+              <caret line="16" column="15" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="15" />
               <folding>
-                <element signature="e#67#76#0" expanded="true" />
+                <element signature="e#67#80#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frozen_path.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -58,11 +43,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spider/searche.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="52" column="37" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="37" />
+            <state relative-caret-position="137">
+              <caret line="40" selection-start-line="40" selection-end-line="41" />
               <folding>
                 <element signature="e#67#78#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/addons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -109,10 +103,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="127" />
+    <option name="x" value="128" />
+    <option name="y" value="23" />
     <option name="width" value="1393" />
-    <option name="height" value="840" />
+    <option name="height" value="931" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -120,7 +114,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,17 +129,13 @@
             <path>
               <item name="douyin" type="b2602c69:ProjectViewProjectNode" />
               <item name="douyin" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="douyin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="douyin" type="462c0819:PsiDirectoryNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -326,11 +315,12 @@
       <workItem from="1567152899329" duration="2333000" />
       <workItem from="1567410606036" duration="2045000" />
       <workItem from="1567497612039" duration="675000" />
+      <workItem from="1567583662704" duration="2081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45084000" />
+    <option name="totallyTimeSpent" value="47165000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -342,10 +332,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="127" width="1393" height="840" extended-state="0" />
+    <frame x="128" y="23" width="1393" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19985196" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15840119" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -464,23 +454,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#67#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/addons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/author.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -494,26 +467,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
+    <entry file="file://$PROJECT_DIR$/frozen_path.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/searche.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="37" />
-          <folding>
-            <element signature="e#67#78#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/detail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
+        <state relative-caret-position="2376">
           <caret line="108" column="26" lean-forward="true" selection-start-line="108" selection-start-column="26" selection-end-line="108" selection-end-column="26" />
           <folding>
             <element signature="e#67#76#0" expanded="true" />
@@ -521,10 +484,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frozen_path.py">
+    <entry file="file://$PROJECT_DIR$/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/douyin_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="e#67#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/searche.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="40" selection-start-line="40" selection-end-line="41" />
+          <folding>
+            <element signature="e#67#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
